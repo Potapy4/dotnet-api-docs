@@ -328,7 +328,7 @@
       </ReturnValue>
       <Docs>
         <summary>Gets the minimum date and time supported by the <see cref="T:System.Globalization.KoreanLunisolarCalendar" /> class.</summary>
-        <value>The earliest date and time supported by the <see cref="T:System.Globalization.KoreanLunisolarCalendar" /> class, which is equivalent to the first moment of February 14, 918 C.E. in the Gregorian calendar.</value>
+        <value>The earliest date and time supported by the <see cref="T:System.Globalization.KoreanLunisolarCalendar" /> class, which is equivalent to the first moment of February 19, 918 C.E. in the Gregorian calendar.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
